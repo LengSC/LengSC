@@ -1,16 +1,18 @@
-### Hi there 👋
+Hello 你好
+---
 
-<!--
-**LengSC/LengSC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+你好！(´∇ﾉ｀*)ノ
 
-Here are some ideas to get you started:
+* 🙂 我是一个普通的男生
+* 🎁 喜欢程序开发，喜欢做一些有趣的小玩意儿
+* 🌈 想与同样爱好的大佬交朋友
+* 📚 正在努力学习更多知识
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+Hello! ^_^
+
+* 🙂 I am an ordinary boy
+* 🎁 I like program development, and making some interesting gadgets or applications
+* 🌈 I want to make more friends
+* 📚 I am learning more knowledge and skills
