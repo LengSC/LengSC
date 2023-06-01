@@ -13,8 +13,8 @@ Hello 你好
 Hello! ^_^
 
 * I am an ordinary boy.
-* I like program development, and making some not only useful but also interesting applications.
-* I want to make more friends.
+* I like program development, and making some applications which are not only useful but also interesting.
+* I want to make more friends who have the same hobbies as me.
 * I am learning more knowledge and skills.
 
 Stats 状态
