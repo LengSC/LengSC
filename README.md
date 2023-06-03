@@ -27,4 +27,8 @@ Stats 状态
 	<a alt="Top Langs" href="https://github.com/anuraghazra/github-readme-stats">
 		<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LengSC&theme=solarized-dark" />
 	</a>
+	<br/>
+	<a alt="Visitor Badge" href="#">
+		<img src="https://visitor-badge.laobi.icu/badge?page_id=LengSC.LengSC&left_color=%230d2a35&right_color=%2389972e&left_text=Visitors&format=true" />
+	</a>
 </p>
