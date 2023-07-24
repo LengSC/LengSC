@@ -21,10 +21,10 @@ Stats 状态
 ---
 
 <p align="center">
-	<a alt="LengSC's GitHub Stats" href="https://github.com/anuraghazra/github-readme-stats">
+	<a alt="LengSC's GitHub Stats" href="#">
 		<img src="https://github-readme-stats.vercel.app/api?username=LengSC&show_icons=true&theme=solarized-dark" />
 	</a>
-	<a alt="Top Langs" href="https://github.com/anuraghazra/github-readme-stats">
+	<a alt="Top Langs" href="#">
 		<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LengSC&theme=solarized-dark" />
 	</a>
 	<br/>
