@@ -24,9 +24,6 @@ Stats 状态
 	<a alt="LengSC's GitHub Stats" href="https://github.com/LengSC">
 		<img src="https://github-readme-stats.vercel.app/api?username=LengSC&show_icons=true&theme=solarized-dark" />
 	</a>
-	<a alt="Top Langs" href="https://github.com/LengSC">
-		<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LengSC&theme=solarized-dark" />
-	</a>
 	<br/>
 	<a alt="Visitor Badge" href="https://github.com/LengSC">
 		<img src="https://visitor-badge.laobi.icu/badge?page_id=LengSC.LengSC&left_color=%230d2a35&right_color=%2389972e&left_text=Visitors&format=true" />
